@@ -1,0 +1,16 @@
+Title: Data Scientist — ML / NLP
+
+About the Role:
+We need a Data Scientist to improve our hybrid matching engine and skill extraction ontology.
+
+Required Skills:
+- Languages: Python, R, SQL, Spark
+- Libraries: scikit-learn, PyTorch, TensorFlow, pandas, numpy, Hugging Face Transformers
+- Concepts: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+- Data: ETL, Data Engineering, Hadoop, Snowflake, BigQuery
+- Tools: Git, Airflow, MLflow
+
+Responsibilities:
+- Tune TF-IDF + semantic hybrid ranking (all-MiniLM-L6-v2)
+- Expand skill ontology and improve gap detection
+- Evaluate ranking quality via NDCG and latency benchmarks

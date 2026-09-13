@@ -1,0 +1,17 @@
+Title: Frontend Engineer — React / TypeScript
+
+About the Role:
+Join our product team to build the AI Resume Screening dashboard. You will translate designs into performant React experiences.
+
+Required Skills:
+- Languages: JavaScript, TypeScript, HTML/CSS
+- Frameworks: React, Next.js, Tailwind CSS, Bootstrap
+- Tools: Git, Figma, Jest, Cypress, Vite
+- Experience with REST API integration, GraphQL, microservices communication
+- Nice to have: Python, AWS S3, Docker, Agile
+
+Responsibilities:
+- Build responsive React + Vite components with Tailwind CSS and Lucide icons
+- Implement drag-and-drop resume upload and ranking tables with progress bars
+- Integrate Axios calls to FastAPI endpoints
+- Collaborate with backend team on API contracts

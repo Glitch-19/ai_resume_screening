@@ -1,0 +1,15 @@
+David Lee
+Frontend Engineer — React / TypeScript
+
+Summary:
+Frontend engineer passionate about React, Next.js, TypeScript, Tailwind CSS. Built AI dashboard with Vite, Axios, Lucide icons.
+
+Experience:
+- React, Next.js, Vue, Tailwind CSS, Bootstrap, Material UI
+- JavaScript, TypeScript, HTML/CSS, Vite, Git, Figma
+- Testing: Jest, Cypress, unit testing
+- Integrated REST API and GraphQL; Docker basics
+- Collaborated on microservices UI, Agile sprints
+
+Skills: JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS, Bootstrap, Material UI, HTML, CSS, Vite, Jest, Cypress, Git, Figma, REST API, GraphQL, Docker, Microservices, Agile
+Missing vs Backend JD: Python, AWS, Kubernetes, PostgreSQL, FastAPI, etc. — high match for Frontend JD

@@ -1,0 +1,16 @@
+Alice Chen
+Senior Backend Engineer | Python | AWS
+
+Summary:
+Senior Python developer with 6 years building scalable microservices on AWS. Expert in FastAPI, Django, PostgreSQL, Redis, MongoDB, Docker, Kubernetes, Terraform, CI/CD, and System Design. Deployed ETL pipelines with Airflow and Spark. Mentors team in Agile.
+
+Experience:
+- Built REST APIs with FastAPI and Django, deployed on Kubernetes (EKS)
+- Designed microservices architecture with microservices patterns, Nginx, Linux
+- Optimized PostgreSQL and Redis caching; worked with MongoDB, SQL, Elasticsearch
+- Implemented ML model serving (PyTorch, scikit-learn, pandas, numpy)
+- Tools: Git, GitHub Actions, pytest, unit testing, Jira
+
+Education: B.Tech Computer Science
+
+Skills: Python, FastAPI, Django, AWS, Docker, Kubernetes, Terraform, PostgreSQL, Redis, MongoDB, SQL, Airflow, Spark, PyTorch, scikit-learn, pandas, numpy, Machine Learning, Data Engineering, ETL, Microservices, REST API, System Design, Agile, Linux, Nginx, Git, GitHub Actions

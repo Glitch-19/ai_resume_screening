@@ -1,0 +1,21 @@
+Title: Senior Backend Engineer — Python / AWS
+
+About the Role:
+We are looking for a Senior Backend Engineer to build scalable microservices for our AI platform. You will own backend architecture, design REST APIs, and lead our cloud migration.
+
+Required Skills:
+- Strong proficiency in Python, FastAPI, Django or Flask
+- Cloud: AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD, Terraform
+- Databases: PostgreSQL, Redis, MongoDB, SQL
+- Tools: Git, GitHub Actions, Linux, Nginx
+- Architecture: Microservices, REST API, System Design, Agile
+- Nice to have: Machine Learning, PyTorch, Airflow, Spark, Data Engineering
+
+Experience: 4+ years backend development. Experience with high-traffic distributed systems is a plus.
+
+Responsibilities:
+- Design and implement scalable FastAPI services deployed on Kubernetes
+- Build ETL pipelines using Airflow and Spark
+- Optimize PostgreSQL queries and Redis caching layers
+- Collaborate with ML team to serve models via REST APIs
+- Mentorship and code reviews, improving system design and testing (pytest, unit testing)

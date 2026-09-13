@@ -1,0 +1,16 @@
+Carol Singh
+Python Developer — Cloud & Data Pipelines
+
+Summary:
+Python developer with 3 years experience in AWS, Docker, Kubernetes, building data pipelines. Familiar with PostgreSQL and REST APIs. Learning ML fundamentals.
+
+Experience:
+- Python services on AWS EC2/S3, Dockerized deployments, Kubernetes (k8s) manifests
+- Data pipelines with Spark, ETL, Airflow (basic)
+- PostgreSQL and Redis; built REST APIs with Flask
+- Exposure to Git, Linux, Agile, Microservices
+
+Education: M.S. Information Systems
+
+Skills: Python, AWS, Docker, Kubernetes, Spark, ETL, Airflow, PostgreSQL, Redis, Flask, Git, Linux, Agile, REST API, Microservices
+Missing vs Backend JD: FastAPI, MongoDB, System Design, Machine Learning, PyTorch, Terraform, CI/CD

@@ -1,0 +1,14 @@
+Eve Martin
+Data Scientist — ML / NLP | Python | PyTorch
+
+Summary:
+Data Scientist with 5 years in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision. Built hybrid ranking models.
+
+Experience:
+- Python, R, SQL, Spark, scikit-learn, PyTorch, TensorFlow, pandas, numpy, Hugging Face Transformers, LangChain
+- Concepts: Machine Learning, Deep Learning, NLP, Computer Vision, Data Engineering, ETL, Big Data
+- Tools: Hadoop, Snowflake, BigQuery, Airflow, Git
+- Improved skill ontology gap detection and NDCG evaluation
+
+Skills: Python, R, SQL, Spark, scikit-learn, PyTorch, TensorFlow, pandas, numpy, Hugging Face, LangChain, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Data Engineering, ETL, Big Data, Hadoop, Snowflake, BigQuery, Airflow, Git, LLM, Data Science, Data Analysis
+Missing vs Backend JD: AWS, Docker, Kubernetes, FastAPI — strong ML fit
