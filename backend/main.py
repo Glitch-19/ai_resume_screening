@@ -8,6 +8,8 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from backend.routers.screening import router as screening_router
+
 _START_TIME = datetime.now(timezone.utc)
 
 # Optional: lazy model loading (stub V1, full ST in M1)
@@ -64,6 +66,5 @@ async def root():
     }
 
 
-# Placeholder for future routers (PRD §9):
-# from app.api.v1.router import api_router
-# app.include_router(api_router, prefix="/api/v1")
+# Screening router: /api/upload-resume, /api/match (PRD §9 + task spec)
+app.include_router(screening_router)
